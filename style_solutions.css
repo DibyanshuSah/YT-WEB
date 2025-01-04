@@ -1,0 +1,86 @@
+*{
+    margin:0px;
+    border: border-box;
+}
+#title1{
+    background-color: rgb(147, 102, 189);
+    border: 3px solid black;
+}
+#img1{
+    border-radius: 140px;
+    height: 100px;
+    width: 130px;
+    border-style: solid;
+    border-color: rgb(255, 226, 179);
+    border-width: 5px;
+}
+#head1{
+    color: rgb(255, 255, 170);
+    height: 50px;
+    padding-left: 150px;
+}
+.abc{
+    display:flex;
+    justify-content: flex-end;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 900;
+    color: rgb(0, 0, 0);
+     
+}
+.a1{
+    padding-right: 50px;
+    color:black;
+}
+#name1{
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+}
+#inp1{
+    padding-top: 10px;
+    
+}
+#lb1{
+    font-weight: 200px;
+    color:rgb(0, 51, 255);
+    font-size: larger;
+
+}
+#inp1{
+    border: 2px solid black;
+    border-radius: 4px;
+}
+.sub_container{
+    background-color: rgb(250, 183, 255);
+    display:flex;
+    justify-content:space-around;
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+}
+.ch{
+    height: 30px;
+    width:200px;
+    border:2px solid black;
+    border-radius: 5px;
+}
+
+.video1{
+    border: 10px;
+    border-color: red;
+}
+.v1{
+    border: 5px solid rgb(95, 109, 253);
+    border-radius: 9px;
+}
+.all_legend{
+    font-size: larger;
+    background-color:chocolate;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 7px;
+}
+.fie_st1{
+    background-color:rgb(255, 230, 191);
+}
+
+
+

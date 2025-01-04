@@ -1,0 +1,37 @@
+*{
+    margin:0px;
+    border: border-box;
+}
+#title1{
+    background-color: rgb(195, 139, 247);
+    border: 3px solid black;
+}
+#img1{
+    border-radius: 140px;
+    height: 80px;
+    width: 130px;
+    border-style: solid;
+    border-color: rgb(255, 226, 179);
+    border-width: 5px;
+}
+#head1{
+    color: rgb(255, 255, 170);
+    height: 50px;
+    padding-left: 150px;
+}
+.a1{
+    align-items: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 900;
+    color: rgb(245, 6, 6);
+    padding-left: 250px;  
+    
+}
+#name1{
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+}
+
+
+
